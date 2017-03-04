@@ -1,4 +1,4 @@
-Dark YouTube Theme
+YouTube Theme Nuit
 ==================
 
 A speedy addon for firefox (extension for chrome ) that injects custom grey-ish css in your page when you're roaming on youtube.
@@ -7,7 +7,7 @@ A speedy addon for firefox (extension for chrome ) that injects custom grey-ish 
 ![alt tag](https://cloud.githubusercontent.com/assets/3413738/6199748/dd8db49a-b45f-11e4-8fb1-60ccdc050c61.png)
 
 
-Get it from https://addons.mozilla.org/en-US/firefox/addon/dark-youtube-theme
+Get it from https://addons.mozilla.org/fr/firefox/addon/dark-youtube-theme
 
 or:
 https://chrome.google.com/webstore/detail/dark-youtube-theme/djhcepodfooinnfhfccmoeabagbjchhg
